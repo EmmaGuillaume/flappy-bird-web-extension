@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Flappy Bird",
+  "version": "1.0",
+  "description": "Joue à Flappy Bird dans ton navigateur !",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
